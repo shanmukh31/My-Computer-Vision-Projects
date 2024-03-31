@@ -1,3 +1,4 @@
+#Generate and Display QR Code from String
 import cv2
 import png
 import pyqrcode
