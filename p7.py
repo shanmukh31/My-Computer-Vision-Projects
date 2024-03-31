@@ -1,3 +1,4 @@
+#Real-Time QR Code Scanner with Visual Detection and Output Actions
 from time import sleep
 from imutils.video import VideoStream
 from pyzbar import pyzbar
