@@ -1,3 +1,5 @@
+#Conversion Video to Black and White with Resizing 
+
 import cv2
 import numpy
 video = cv2.VideoCapture("C:\\Users\\Usha\\OneDrive\\Documents\\Desktop\\PYTHON_WORKSHOP_Bore\\goodfellas_henry.mp4")
