@@ -1,3 +1,4 @@
+# Encode Image as String and Generate Printable QR Codes
 import cv2
 import png
 import numpy as np
