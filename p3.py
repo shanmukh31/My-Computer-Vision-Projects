@@ -1,3 +1,4 @@
+#Real-Time Video to Black and White with Resizing
 import cv2
 import numpy
 video = cv2.VideoCapture(0)
