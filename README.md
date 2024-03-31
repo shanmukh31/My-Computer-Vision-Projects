@@ -1,2 +1,3 @@
 # My-Computer-Vision-Projects
-I put here the very small projects i've done in Computer Vision.
+I put here the projects i've done in Computer Vision.
+I've been expanding my skillset in computer vision recently with some practical projects. One involved video manipulation, where I resized and converted movie frames to black and white. I also explored QR code generation, writing a program that could encode an image as a string and create printable QR codes in both SVG and PNG formats. Most recently, I've been working on a real-time QR code scanner. This program utilizes a webcam to capture video, identify QR codes within the frames, and visually highlight them. Additionally, it can decode the data from the QR code and potentially trigger actions based on the content. It's been a rewarding experience exploring the possibilities of computer vision! 
