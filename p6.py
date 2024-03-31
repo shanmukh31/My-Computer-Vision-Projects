@@ -1,3 +1,4 @@
+#Image to String QR Codes Generator (with Visual Display)
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
